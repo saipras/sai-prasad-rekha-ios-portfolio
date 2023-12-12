@@ -21,6 +21,7 @@ I was always fasinated by photography and wild life so based on a idea on app fo
 - 🎨 SwiftUI
 - 🗂️ MVVM
 - 💾 App Storage
+- 📍MapKit
 
  <a href = "https://github.com/saipras/ScrumdingerApp" > ScrunDinger App </a>
 
