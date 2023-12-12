@@ -15,9 +15,9 @@ I was always fasinated by photography and wild life so based on a idea on app fo
 
  <img src="https://github.com/saipras/sai-prasad-rekha-ios-portfolio/assets/36514385/8d4c1b8a-618f-4708-9227-4d4661b0876c" width="2000" height="400">
 
- #### Technologies used
-* Written with SwiftUI.
-* Used Core Data to persist the data from CloudKit.
-* CloudKit was the framework used to request and digest the data.
-* Created my own SPM to use within the app.
-* Followed the MVVM design paradigm.
+
+ **Tech Used**
+ 
+- 🎨 SwiftUI
+- 🗂️ MVVM
+- 💾 App Storage
