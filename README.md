@@ -11,7 +11,7 @@
 
  <a href = "https://github.com/saipras/AfricaApp" > Africa App </a>
 
-I was always fasinated by photography and wild life so based on a idea on app for showing the animals in the africa and different regions in africa. I tried building the app. This app contains various animals from the african reserves and information about various animals in that reserves . 
+I was always fasinated by photography and wild life so based on a idea on app for showing the animals in the africa and different regions in africa. I tried building the app. This app contains various animals from the african reserves and information about various animals in that reserves . I added some cool features like using mapkit, audio/videokit, and implemented using the latest swit frameworks. 
 
  <img src="https://github.com/saipras/sai-prasad-rekha-ios-portfolio/assets/36514385/8d4c1b8a-618f-4708-9227-4d4661b0876c" width="2000" height="400">
 
@@ -22,6 +22,7 @@ I was always fasinated by photography and wild life so based on a idea on app fo
 - 🗂️ MVVM
 - 💾 App Storage
 - 📍MapKit
+- 📀 AVKit
 
  <a href = "https://github.com/saipras/ScrumdingerApp" > ScrunDinger App </a>
 
