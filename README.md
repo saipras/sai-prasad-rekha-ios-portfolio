@@ -21,3 +21,16 @@ I was always fasinated by photography and wild life so based on a idea on app fo
 - 🎨 SwiftUI
 - 🗂️ MVVM
 - 💾 App Storage
+
+ <a href = "https://github.com/saipras/ScrumdingerApp" > ScrunDinger App </a>
+
+Tour of the app Many software engineering teams use daily meetings, known as scrums, to plan their work for the day. Scrums are short meetings where each attendee discusses what they accomplished yesterday, what they are working on today, and any obstacles that might impact their work. This app is part of my  SwiftUI learning. 
+
+<img src = "https://github.com/saipras/sai-prasad-rekha-ios-portfolio/blob/main/Images/ScrumDinger%20App.png" width = "2000" height = "400" >
+
+**Tech Used**
+ 
+- 🎨 SwiftUI
+- 🗂️ MVVM
+- 💾 App Storage
+
