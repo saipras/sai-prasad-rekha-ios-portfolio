@@ -36,3 +36,16 @@ Tour of the app Many software engineering teams use daily meetings, known as scr
 - 🗂️ MVVM
 - 💾 App Storage
 
+
+ <a href = "[https://github.com/saipras/ScrumdingerApp](https://github.com/saipras/NewsAppAssignment)" > News App </a>
+
+ World news app using news api and latest design patterns like mvvm 
+<img src = "https://github.com/saipras/NewsAppAssignment/blob/main/Screenshots/mainscreen.png" width = "200" height = "400" >
+<img src = "https://github.com/saipras/NewsAppAssignment/blob/main/Screenshots/detailsscreen.png"  width = "200" height = "400">
+
+**Tech Used**
+ 
+- 🎨 SwiftUI
+- 🗂️ MVVM
+- 💾 App Storage
+
